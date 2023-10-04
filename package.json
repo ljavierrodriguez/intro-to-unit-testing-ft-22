@@ -1,0 +1,16 @@
+{
+  "name": "intro-to-unit-testing-ft-22",
+  "version": "1.0.0",
+  "description": "Iniciar un proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
